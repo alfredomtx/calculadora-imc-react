@@ -1,5 +1,8 @@
 # Calculadora de IMC
 
+Live preview do projeto:
+https://react-calculadora-imc.vercel.app/
+
 Pequeno projeto web de uma calculadora de IMC utilizando ReactJS & Typescript.
 
 Tecnologias utilizadas:
