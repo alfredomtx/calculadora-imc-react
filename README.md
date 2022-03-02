@@ -1,6 +1,6 @@
 # Calculadora de IMC
 
-Pequeno projeto web de uma calculadora de IMC utilizando ReactJS.
+Pequeno projeto web de uma calculadora de IMC utilizando ReactJS & Typescript.
 
 Tecnologias utilizadas:
 - [React](https://reactjs.org/)
